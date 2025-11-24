@@ -1,4 +1,4 @@
-import styles from "./card.module.scss"
+import styles from "./Card.module.scss"
 function Card({img, Texto}){
     return(
         <div className={styles.card}>
