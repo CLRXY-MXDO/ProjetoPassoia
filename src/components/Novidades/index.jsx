@@ -1,5 +1,5 @@
 import banner from "../../assets/Novidades/banner.jpg"
-import styles from "./novidades.module.scss"
+import styles from "./Novidades.module.scss"
 export default function Novidades() {
     return (
         <div className={styles.novidades}>
