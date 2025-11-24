@@ -1,0 +1,27 @@
+.card
+{
+    width: 330px;
+    height: 480px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    position: relative;
+}
+
+.card img
+{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.card h1
+{
+    margin: 10px;
+    color: white;
+    z-index: 1;
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    text-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}

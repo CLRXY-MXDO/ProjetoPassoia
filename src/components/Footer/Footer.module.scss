@@ -1,0 +1,57 @@
+.Footer
+{
+    padding: 55px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    border-top: 1px solid black;
+}
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 15px;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 15px;
+}
+.container3{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.pagamentos
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px
+}
+.pagamentos img
+{
+    width: 75px;
+    height: 51px;
+}
+
+.redes
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.redes img
+{
+    width: 41px;
+    height: 41px;
+}
