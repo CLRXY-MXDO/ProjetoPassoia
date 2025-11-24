@@ -1,4 +1,4 @@
-import styles from "./cardSection.module.scss"
+import styles from "./CardSection.module.scss"
 import Card from "../Card"
 import Card1 from "../../assets/Card/Card1.png"
 import Card2 from "../../assets/Card/Card2.jpg"
