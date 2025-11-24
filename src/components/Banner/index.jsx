@@ -1,4 +1,4 @@
-import banner from "../../assets/Banner/banner.jpg"
+import banner from "../../assets/Banner/Banner.jpg"
 import styles from "./banner.module.scss"
 function Banner(){
     return(
